@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reinforcement Learning | Ossama Ahmed</title>
+    <link>/tag/reinforcement-learning/</link>
+      <atom:link href="/tag/reinforcement-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reinforcement Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
+      <title>Reinforcement Learning</title>
+      <link>/tag/reinforcement-learning/</link>
+    </image>
+    
+    <item>
+      <title>Local Exploration Based on TSDF</title>
+      <link>/project/plr/</link>
+      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/plr/</guid>
+      <description>&lt;p&gt;In order to enable robots to explore and assist in complex unknown environments, we propose a learning-based approach for exploring unknown cluttered environments. The underlying exploration model is an end to end neural
+network policy trained using reinforcement learning (RL) to use the euclidean
+signed distance fields (ESDFs) local map to efficiently navigate and explore the
+surrounding environment with no prior information about the environment itself.
+We evaluate our approach using different RL algorithms and reward functions.
+We show in simulation that the proposed exploration approach can effectively
+determine appropiate frontier locations to navigate to while being robust to different environment layouts. We also show that compressing the ESDF local map to a
+meaningful descriptor accelarates the training process.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
