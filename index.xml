@@ -147,6 +147,18 @@ triangulation of new landmarks.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Telepresence System</title>
+      <link>/project/capstone/</link>
+      <pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/project/capstone/</guid>
+      <description>&lt;p&gt;Successfully developed a Telepresence System that is equipped with high definition cameras remotely
+connected to an Oculus Rift. The purpose of the Telepresence System is to allow the users to see as if they were physically
+in place of the system itself. The project focused on three main areas: distortion removal, panoramic frame stitching and
+high definition video streaming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Enigma Machine</title>
       <link>/project/enigma/</link>
       <pubDate>Sun, 09 Oct 2016 00:00:00 +0000</pubDate>
