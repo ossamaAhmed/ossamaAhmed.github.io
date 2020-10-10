@@ -23,6 +23,71 @@
   </url>
   
   <url>
+    <loc>/publication-type/0/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alexander-neitz/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anirudh-goyal/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bernhard-scholkopf/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/causal/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/frederik-trauble/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/manuel-wutrich/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ossama-ahmed/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/stefan-bauer/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yoshua-bengio/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/blackbox_mpc/</loc>
     <lastmod>2020-02-09T23:23:28+02:00</lastmod>
   </url>
@@ -128,23 +193,11 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
     <loc>/author/ossama-ahmed/</loc>
   </url>
   
   <url>
     <loc>/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
   </url>
   
 </urlset>
