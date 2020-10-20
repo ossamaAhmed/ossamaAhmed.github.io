@@ -5,20 +5,12 @@
     <link>/author/ossama-ahmed/</link>
       <atom:link href="/author/ossama-ahmed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ossama Ahmed</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
       <title>Ossama Ahmed</title>
       <link>/author/ossama-ahmed/</link>
     </image>
-    
-    <item>
-      <title>CAUSALWORLD: A ROBOTIC MANIPULATION BENCHMARK FOR CAUSAL STRUCTURE AND TRANSFER LEARNING</title>
-      <link>/publication/causal/</link>
-      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/causal/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
