@@ -1,24 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Robotics | Ossama Ahmed</title>
+    <title>Robotics on Ossama Ahmed</title>
     <link>/category/robotics/</link>
-      <atom:link href="/category/robotics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Robotics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
-      <title>Robotics</title>
-      <link>/category/robotics/</link>
-    </image>
-    
+    <description>Recent content in Robotics on Ossama Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/category/robotics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Duckie Town</title>
       <link>/project/duckie_town/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>/project/duckie_town/</guid>
-      <description>&lt;p&gt;What would a self-driving car do if the car just in front it has malfunctioning break lights? What would it do if a kid suddenly lets go of his mother’s grasp and jumps into the road? What would it do if the sensors it uses for perception break down unexpectedly? All of these situations and more may be captured if the planning algorithms are planning for such uncertainties, which include the behavior of other agents in the environment as well as our perception of the environment itself.&lt;/p&gt;
-</description>
+      <description>Successfully implemented a path planner and a velocity profiler for duckiebots as part of duckietown, a robotics outreach and educational platform, while taking into account various sources of uncertainty.</description>
     </item>
     
   </channel>

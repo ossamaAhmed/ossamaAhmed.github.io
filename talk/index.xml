@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks | Ossama Ahmed</title>
+    <title>Talks on Ossama Ahmed</title>
     <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
-      <title>Talks</title>
-      <link>/talk/</link>
-    </image>
-    
+    <description>Recent content in Talks on Ossama Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate><atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talk on Expected Policy Gradients</title>
       <link>/talk/my-talk-name/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
       <guid>/talk/my-talk-name/</guid>
-      <description></description>
+      <description>Paper review of expected policy gradients &lt;a href=&#34;https://arxiv.org/pdf/1706.05374.pdf&#34;&gt;https://arxiv.org/pdf/1706.05374.pdf&lt;/a&gt; by Kamil Ciosek and Shimon Whiteson.</description>
     </item>
     
   </channel>

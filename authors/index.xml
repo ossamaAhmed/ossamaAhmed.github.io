@@ -1,16 +1,137 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Ossama Ahmed</title>
+    <title>Authors on Ossama Ahmed</title>
     <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 10:27:22 +0200</lastBuildDate>
-    <image>
-      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
-      <title>Authors</title>
-      <link>/authors/</link>
-    </image>
+    <description>Recent content in Authors on Ossama Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 10:27:22 +0200</lastBuildDate><atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Brett H. Meyer</title>
+      <link>/author/brett-h.-meyer/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/author/brett-h.-meyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guang Yang</title>
+      <link>/author/guang-yang/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/author/guang-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ossama S. Ahmed</title>
+      <link>/author/ossama-s.-ahmed/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/author/ossama-s.-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sean C. Smithson</title>
+      <link>/author/sean-c.-smithson/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/author/sean-c.-smithson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warren J. Gross</title>
+      <link>/author/warren-j.-gross/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/author/warren-j.-gross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Neitz</title>
+      <link>/author/alexander-neitz/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/alexander-neitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anirudh Goyal</title>
+      <link>/author/anirudh-goyal/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/anirudh-goyal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernhard Schölkopf</title>
+      <link>/author/bernhard-scholkopf/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/bernhard-scholkopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frederik Träuble</title>
+      <link>/author/frederik-trauble/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/frederik-trauble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manuel Wütrich</title>
+      <link>/author/manuel-wutrich/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/manuel-wutrich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ossama Ahmed</title>
+      <link>/author/ossama-ahmed/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/ossama-ahmed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Bauer</title>
+      <link>/author/stefan-bauer/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/stefan-bauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoshua Bengio</title>
+      <link>/author/yoshua-bengio/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/author/yoshua-bengio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ossama Ahmed</title>
+      <link>/author/ossama-ahmed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/author/ossama-ahmed/</guid>
+      <description>I have recently completed a MSc degree in Robotics, Systems and Control at ETH Zurich. My interests lie in reinforcement learning and optimal control, in particular, my main research goals entail enabling dynamical systems to efficiently and safely learn in real environments where they face high prior uncertainties.</description>
+    </item>
     
   </channel>
 </rss>

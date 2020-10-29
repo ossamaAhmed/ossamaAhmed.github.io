@@ -1,16 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Ossama Ahmed</title>
+    <title>Publication_types on Ossama Ahmed</title>
     <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 10:27:22 +0200</lastBuildDate>
-    <image>
-      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>/publication_types/</link>
-    </image>
+    <description>Recent content in Publication_types on Ossama Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2020 10:27:22 +0200</lastBuildDate><atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0</title>
+      <link>/publication-type/0/</link>
+      <pubDate>Sat, 10 Oct 2020 10:27:22 +0200</pubDate>
+      
+      <guid>/publication-type/0/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

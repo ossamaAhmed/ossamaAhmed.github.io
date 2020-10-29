@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yoshua Bengio | Ossama Ahmed</title>
+    <title>Yoshua Bengio on Ossama Ahmed</title>
     <link>/author/yoshua-bengio/</link>
-      <atom:link href="/author/yoshua-bengio/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yoshua Bengio</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>/images/icon_hub02f11719440bf94480d1ab9e24c040b_69343_512x512_fill_lanczos_center_2.png</url>
-      <title>Yoshua Bengio</title>
-      <link>/author/yoshua-bengio/</link>
-    </image>
-    
+    <description>Recent content in Yoshua Bengio on Ossama Ahmed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/author/yoshua-bengio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CausalWorld: A Robotics Manipulation Benchmark For Causal Structure And Transfer Learning</title>
       <link>/publication/causal/</link>
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
       <guid>/publication/causal/</guid>
-      <description></description>
+      <description>Submitted to ICLR</description>
     </item>
     
   </channel>
